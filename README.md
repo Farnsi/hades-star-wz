@@ -33,7 +33,7 @@ Mit den gewonnenn Artefakten und Credits am Ende eines WZ könnt ihr euch locker
 ## Offensiv oder Defensiv
 
 Das kommt auf euer Spielverhalten an und vor allem wie viel Zeit ihr überhaupt habt.
-Jemand der nur morgens oder abends reinschaut, kann keine offensive Spielart wählen, denn dazu müssen die Befehle öfter geändert und angepasst werden. Auch wenn ein WZ über x-Stunden läuft, ist im direkten Feinkontakt das online sein Pflicht, da hilft auch die Zeitmaschine nichts.
+Jemand der nur morgens oder abends reinschaut, kann keine offensive Spielart wählen, denn dazu müssen die Befehle öfter geändert und angepasst werden. Auch wenn ein WZ über x-Stunden läuft, ist im direkten Feindkontakt das online sein Pflicht, da hilft auch die Zeitmaschine nichts.
 
 Wer nicht mehr Zeit hat, oder keine Möglichkeit, der soll gefälligst defensiv spielen und sich mit seinem Schlachtschiff zurückhalten (max. 2 Sektoren vom Sprungtor entfernt agieren), Planeten, Transporter oder Sammler schützen.
 
