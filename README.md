@@ -3,11 +3,11 @@
 ## Grundregeln
 
 + Die Zeitmaschine verwenden
-+ Die Zeitmaschine verwenden
++ Die Zeitmaschine verwendensei
 + und noch einmal: Die Zeitmaschine verwenden!
 + Zuflucht hat auf einem Kriegsschiff im WZ nichts zu suchen!
   * Zuflucht schränkt die Modulmöglichkeiten ein
-  * es zeigt dem Gegner gleich was für ein Angsthase ihr seit
+  * es zeigt dem Gegner gleich was für ein Angsthase ihr seid
 + Nie mehr als 1 Sektor weit fliegen
   * ansonsten ist man leichte Beute, da der Flug vorhersehbar ist
 + Zwischenstopps einplanen 
